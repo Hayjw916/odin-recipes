@@ -8,3 +8,13 @@
     text-align: center;
     list-style-position: inside;
 }
+
+.copyright {
+    position: relative;
+}
+
+#bottom {
+    position: absolute;
+    text-align: center;
+    bottom: 0%
+}

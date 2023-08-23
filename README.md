@@ -5,5 +5,5 @@ Goals for this project: the ability to use most of the html skills I've learned 
 website
 
 ## TODO for the Website 
-* make the actual website
-* design it with cool css (not sure the theme yet)
+* Make the recipe items more center
+* Stylize the other pages

@@ -21,4 +21,5 @@
     height: 300px;
     display: block;
     margin: 0 auto;
+    border: 5px solid rgb(0, 0, 0);
 }

@@ -1,3 +1,12 @@
+body {
+    background-color: antiquewhite;
+}
+
+img {
+    border: 5px solid black;
+    margin-top: 100px;
+}
+
 .title {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
@@ -10,25 +19,9 @@
 }
 
 .copyright {
+    font-family: 'Nunito', sans-serif;
     position: fixed;
     left: 50%;
     bottom: 20px;
     transform: translate(-50%, -50%);
-}
-
-.recipe-image {
-    width: 400px;
-    height: 300px;
-    display: block;
-    margin: 0 auto;
-    border: 5px solid rgb(0, 0, 0);
-}
-
-.small-headings {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.description {
-    border: 5px solid rgb(0, 0, 0);
-    margin-top: 5px;
 }
